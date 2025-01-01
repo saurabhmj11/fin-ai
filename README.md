@@ -1,4 +1,4 @@
-# Multi-AI Agent Web App
+# FIN-AI Agent Web App
 
 ## Overview
 The Multi-AI Agent Web App is a Streamlit-powered platform that combines advanced AI models and specialized tools to deliver actionable insights in real-time. This application is designed to handle tasks such as web research, financial analysis, and news aggregation, providing structured and well-formatted results.
